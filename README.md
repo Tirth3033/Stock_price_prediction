@@ -12,9 +12,7 @@ In this project, we aim to:
 
 ## Contents
 
-- `notebooks/`: This directory contains Jupyter Notebook files detailing the data analysis process, feature engineering, model training, and evaluation.
-- `data/`: Here, you'll find the S&P 500 dataset retrieved from the Yahoo Finance library.
-- `results/`: This directory includes the results of our backtesting analysis and any relevant visualizations.
+- `Stock_prediction.ipnyb`: Contains the code.
 - `README.md`: You are currently reading this file, which provides an overview of the project.
 
 ## Usage
