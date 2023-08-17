@@ -1,5 +1,5 @@
 
-**# Random Forest Classification and Backtesting with S&P 500 Data
+# Random Forest Classification and Backtesting with S&P 500 Data
 
 This repository contains a data analysis and machine learning project focused on predicting stock market movements using Random Forest Classification and evaluating the model's accuracy through backtesting. The project utilizes data from the Yahoo Finance library, specifically the S&P 500 dataset.
 
