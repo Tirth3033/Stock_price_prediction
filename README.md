@@ -18,4 +18,25 @@ In this project, we aim to:
 ## Usage
 
 1. Clone the repository:
-**
+git clone https://github.com/your-username/your-repo.git
+
+## Requirements
+
+To run the project code, you'll need the following dependencies:
+
+- Python 3.x
+- Jupyter Notebook
+- Required Python libraries (scikit-learn, yfinance, pandas, numpy)
+
+## Acknowledgments
+
+We'd like to acknowledge the Yahoo Finance library for providing the S&P 500 dataset used in this project. Additionally, this project draws inspiration from the field of quantitative finance and machine learning.
+
+## Contact
+
+If you have any questions or feedback, feel free to reach out to me:
+- Name: ozat0001@e.ntu.edu.sg
+- LinkedIn: https://www.linkedin.com/in/tirth-oza-7a18aa228/
+
+Thank you for your interest in the project!
+
