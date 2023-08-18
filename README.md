@@ -7,7 +7,7 @@ This repository contains a data analysis and machine learning project focused on
 
 In this project, we aim to:
 - Apply Random Forest Classification to predict stock market movements.
-- Utilize the S&P 500 data from the Yahoo Finance library as our dataset.
+- Utilize and analyse the S&P 500 data from the Yahoo Finance library as our dataset.
 - Assess the accuracy of the Random Forest model by performing backtesting on historical data.
 
 ## Contents
